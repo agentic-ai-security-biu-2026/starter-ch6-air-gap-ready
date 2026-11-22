@@ -17,4 +17,4 @@ Air-gapped packaging / offline inference. Diff 4. Priority P2.
 
 ## License
 
-Apache-2.0 (unless noted).
+Apache-2.0 — see `LICENSE`.
